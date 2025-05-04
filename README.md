@@ -2,15 +2,7 @@
 
 ## Interactive Map – screen‑recording
 
-<video
-  src="https://github.com/Aietham/ads-b_flight_paths/raw/main/ads-b_anomalous_paths.mp4?raw=true"
-  controls
-  muted
-  loop
-  playsinline
-  width="1000">
-  Your browser can’t display the video—<a href="https://github.com/Aietham/ads-b_flight_paths_clean/raw/main/ads-b_anomalous_paths.mp4?raw=true">download it here</a>.
-</video>
+https://github.com/user-attachments/assets/931afaf5-8def-4e0c-bf32-9f43d52388b8
 
 
 **ADS‑B Flight Path Explorer** is a Jupyter Notebook–based pipeline that lets you:
