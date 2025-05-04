@@ -2,9 +2,9 @@
 
 ## Interactive Map – screen‑recording
 
-<video src="ads-b_anomalous_paths.mp4"
-       autoplay loop muted playsinline width="1000">
-  Your browser doesn’t seem to support embedded .mov video.
+<video src="https://raw.githubusercontent.com/Aietham/ads-b_flight_paths/main/ads-b_anomalous_paths.mp4"
+       controls muted loop playsinline width="1000">
+  Your browser can’t display the video—<a href="https://raw.githubusercontent.com/Aietham/ads-b_flight_paths_clean/main/ads-b_anomalous_paths.mp4">download it here</a>.
 </video>
 
 **ADS‑B Flight Path Explorer** is a Jupyter Notebook–based pipeline that lets you:
