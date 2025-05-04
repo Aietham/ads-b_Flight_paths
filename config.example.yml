@@ -1,0 +1,7 @@
+site: 
+  hostname: "files.clarksonmsda.org"
+  port: 2022  # Default SSH port
+  username: "<username>"
+  password: "******"
+  log_path: 'adsb/ny0'
+  base_server_path: "/srv/sftpgo/data/users/<username>"

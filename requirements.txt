@@ -1,0 +1,8 @@
+ numpy>=1.18
+ pandas>=1.2
+ pyyaml>=5.4
+ paramiko>=2.7
+ folium>=0.12
+ ipyleaflet>=0.17
+ ipywidgets>=7.6
+ #voila>=0.4.0
