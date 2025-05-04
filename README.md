@@ -4,7 +4,7 @@
 
 <video
   src="https://github.com/Aietham/ads-b_flight_paths/raw/main/ads-b_anomalous_paths.mp4?raw=true"
-  autoplay
+  controls
   muted
   loop
   playsinline
@@ -396,7 +396,4 @@ invoke it once to load the default view, and render the map.
 - **Real‑time Streaming:** Transition from batch ZIP ingestion to a streaming pipeline (e.g., Kafka, AWS Kinesis) for near‑real‑time flight path visualization.  
 - **Advanced Anomaly Detection:** Integrate machine learning models (e.g., DBSCAN clustering, Isolation Forest) to automatically flag unusual flight behavior.  
 - **Enhanced UI Controls:** Add options to select multiple dates, define custom geographic bounding boxes, and overlay traffic‑density heatmaps.  
-- **Automated Deployment:** Containerize the pipeline with Docker and orchestrate scheduled runs via cloud services (e.g., AWS Lambda, Azure Functions, Airflow).  
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aietham/ads-b-anomalous-paths/HEAD?urlpath=%2Fdoc%2Ftree%2F%2Fvoila%2Frender%2Fscript.ipynb)
+- **Automated Deployment:** Containerize the pipeline with Docker and orchestrate scheduled runs via cloud services (e.g., AWS Lambda, Azure Functions, Airflow).
